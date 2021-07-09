@@ -1,0 +1,6 @@
+<RCC>
+    <qresource>
+        <file>sonido/core.js</file>
+        <file>samples/sample0x1.js</file>
+    </qresource>
+</RCC>
