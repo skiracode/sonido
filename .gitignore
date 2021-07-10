@@ -26,6 +26,7 @@ dist/
 # JetBrains IDE
 .idea/
 sonido/venv/
+python/sonido/venv/
 
 # Unit test reports
 TEST*.xml
